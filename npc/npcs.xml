@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npcs>
+	<!--
+	<npc name="Dark Rodo" file="dark rodo.xml"/>
+	<npc name="Athan" file="athan.xml"/>
+	<npc name="Blesser Man" file="blesser man.xml"/>
+	<npc name="Lua82Example Merchant" file="Lua82Example.xml"/>
+	<npc name="Mailman Maily" file="mailman maily.xml"/>
+	<npc name="Dufi" file="dufi.xml"/>
+	<npc name="Eremo" file="eremo.xml"/>
+	<npc name="Especialista of Sotf" file="Especualista of sotfxml"/>
+	<npc name="Henricus" file="henricus.xml"/>
+	-->
+	
+	<npc name="Johnny" file="johnny.xml"/>
+	<npc name="Lector" file="lector.xml"/>
+	<npc name="Mad" file="mad.xml"/>
+	<npc name="Obi" file="obi.xml"/>
+	<npc name="Perac" file="perac.xml"/>
+	<npc name="Rashid" file="rashid.xml"/>
+	<npc name="Remove Skull" file="remove skull.xml"/>
+	<npc name="Riona" file="Riona.xml"/>
+	<npc name="Updade Seller" file="updade seller.xml"/>
+	<npc name="Varkhal" file="Varkhal.xml"/>
+	<npc name="Seller" file="seller.xml"/>
+	<npc name="Baiak Vip Seller" file="baiak vip seller.xml"/>
+</npcs>

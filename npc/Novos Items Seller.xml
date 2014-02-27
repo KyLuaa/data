@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Novos Items Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="400" head="1" body="90" legs="90" feet="1" addons="3"/>
+    <parameters> 
+        <parameter key="module_shop" value="1"/> 
+        <parameter key="shop_buyable" value="glacial rod,18412,200000;muck rod,18411,200000;prismatic shield,18410,300000;wand of everblazing,18409,200000;prismatic legs,18405,300000;prismatic armor,18404,300000;prismatic helmet,18403,300000;spellbook of vigilance,18401,250000;gill legs,18400,250000;gill coat,18399,250000;gill gugel,18398,250000;mycological mace,18452,150000;crystal crossbow,18453,150000;mycological bow,18454,150000;premium scroll,16101,100000;mathmaster shield,16104,50000;ornate crossbow,15644,150000;hive bow,15643,100000;violet crystal shard,18414,1000;crystalline axe,18451,150000;crystalline sword,18450,150000;pet pig,18455,20000;shiny blade,18465,200000;spellbook of ancient arcana,16112,150000;surprise nest,16102,2000;crystal backpack,18394,100000;hive scythe,15492,100000;carapace shield,15491,100000;blue crystal shard,18413,2000;green crystal shard,18415,2000;thorn spitter,16111,100000;
+medusa skull,16105,50000;deepling squelcher,15647,150000;vortex bolt,15649,50000;depth galea,15651,50000;calopteryx cape,15489,100000;grasshopper legs,15490,100000;gragon eye,18526,50000;durin the almighty doll,16107,50000;anniversary backpack,16007,100000;warrior's axe,15451,100000;guardian axe,15454,100000;warrior's shield,15453,100000;mushroom backpack,18393,50000;deepling backpack,15645,50000;buggy backpack,15646,50000;tarsal arrow,15648,20000;prismatic boots,18406,300000;"/> 
+    </parameters> 
+</npc>

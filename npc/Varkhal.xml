@@ -1,0 +1,9 @@
+<npc name="Varkhal" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="342" head="0" body="0" legs="0" feet="0" addons="0"/>
+    <parameters> 
+	<parameter key="message_greet" value="Hello |PLAYERNAME|. I Sell Addon doll say {trade} for buy cust {3000000} Tank You!" />
+        <parameter key="module_shop" value="1"/> 
+        <parameter key="shop_buyable" value="addon doll,9693,3000000;mount doll,13030,3000000"/> 
+    </parameters> 
+</npc>

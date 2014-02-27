@@ -1,0 +1,1 @@
+dofile(getDataDir() .. "lib/WAR.lua")

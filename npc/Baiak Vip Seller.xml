@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Baiak Vip Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="302" head="0" body="0" legs="114" feet="114" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_sellable" value="Baiak bow,8858,500000;yalahari mask,9778,250000;baiak arrow,2352,250000;boots of baiak,12646,250000;baiak legs,12643,500000;baiak cap,12657,500000;baiak armor,12642,500000;baiak helmet,12645,500000;staff of baiak,12648,500000;baiak of spellbook,12647,500000;baiak club,15414,800000;baiak sword,12649,800000;baiak shield,12644,500000;yalahari armor,9776,250000;yalahari leg piece,9777,250000;baiak star,7366,800000;minimun sword,8931,250000;solar axe,8925,250000;warlord sword,2408,250000;magic longsword,2390,250000;"/>
+		<parameter key="shop_buyable" value="Baiak bow,8858,1000000;yalahari mask,9778,500000;baiak arrow,2352,500000;boots of baiak,12646,500000;baiak legs,12643,1000000;baiak cap,12657,1000000;baiak armor,12642,1000000;baiak helmet,12645,1000000;staff of baiak,12648,1000000;baiak of spellbook,12647,1000000;baiak club,15414,1500000;baiak sword,12649,1500000;baiak shield,12644,1000000;yalahari armor,9776,500000;yalahari leg piece,9777,500000;baiak star,7366,1500000;minimun sword,8931,500000;solar axe,8925,500000;warlord sword,2408,500000;magic longsword,2390,500000;"/>
+	</parameters>
+1</npc>
